@@ -1,6 +1,6 @@
 demo link
 
-https://explore-blogger.netlify.app
+https://news-hunt.netlify.app
 
 
 # Getting Started with Create React App
